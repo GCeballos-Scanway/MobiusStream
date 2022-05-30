@@ -77,7 +77,6 @@ namespace Mobius_Stream
             string qual = "5";
             int retlen;
             int retries = 0;
-            DialogResult ans = DialogResult.None;
             string returndata = "";
             string error = "";
          
